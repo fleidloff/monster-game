@@ -1,0 +1,8 @@
+.Game {
+  color: red;
+}
+
+.Clues {
+  display: flex;
+  justify-content: space-around;
+}

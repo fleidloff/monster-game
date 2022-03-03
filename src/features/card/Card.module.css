@@ -1,0 +1,14 @@
+.Card {
+  border: 1px solid black;
+  width: 150px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.CardContainer {
+  height: 250px;
+  width: 150px;
+}
